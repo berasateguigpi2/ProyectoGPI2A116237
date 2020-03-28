@@ -1,4 +1,4 @@
-/home/alumno/MyArduinoProject/build/FooProject/mega/core/wiring_shift.c.o: \
+/home/alumno/Escritorio/ProyectoGPI2A116237/ArduinoProject/build/FooProject/mega/core/wiring_shift.c.o: \
  /usr/share/arduino/hardware/arduino//cores/arduino/wiring_shift.c \
  /usr/share/arduino/hardware/arduino//cores/arduino/wiring_private.h \
  /usr/share/arduino/hardware/arduino//cores/arduino/Arduino.h \

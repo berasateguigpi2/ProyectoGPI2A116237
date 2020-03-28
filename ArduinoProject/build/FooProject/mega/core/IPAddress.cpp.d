@@ -1,4 +1,4 @@
-/home/alumno/MyArduinoProject/build/FooProject/mega/core/IPAddress.cpp.o: \
+/home/alumno/Escritorio/ProyectoGPI2A116237/ArduinoProject/build/FooProject/mega/core/IPAddress.cpp.o: \
  /usr/share/arduino/hardware/arduino//cores/arduino/IPAddress.cpp \
  /usr/share/arduino/hardware/arduino//cores/arduino/Arduino.h \
  /usr/share/arduino/hardware/arduino//cores/arduino/binary.h \

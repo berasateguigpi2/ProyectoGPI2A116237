@@ -5,7 +5,7 @@
 
 ### PROJECT_DIR
 ### This is the path to where you have created/cloned your project
-PROJECT_DIR       = ./ArduinoProject
+PROJECT_DIR       = $(HOME)/Escritorio/ProyectoGPI2A116237/ArduinoProject
 
 ### ARDMK_DIR
 ### Path to the Arduino-Makefile directory.

@@ -1,4 +1,4 @@
-/home/alumno/MyArduinoProject/build/FooProject/mega/core/main.cpp.o: \
+/home/alumno/Escritorio/ProyectoGPI2A116237/ArduinoProject/build/FooProject/mega/core/main.cpp.o: \
  /usr/share/arduino/hardware/arduino//cores/arduino/main.cpp \
  /usr/share/arduino/hardware/arduino//cores/arduino/Arduino.h \
  /usr/share/arduino/hardware/arduino//cores/arduino/binary.h \

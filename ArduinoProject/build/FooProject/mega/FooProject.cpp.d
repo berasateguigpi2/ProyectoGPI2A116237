@@ -1,4 +1,4 @@
-/home/alumno/MyArduinoProject/build/FooProject/mega/FooProject.cpp.o: \
+/home/alumno/Escritorio/ProyectoGPI2A116237/ArduinoProject/build/FooProject/mega/FooProject.cpp.o: \
  FooProject.cpp \
  /usr/share/arduino/hardware/arduino//cores/arduino/Arduino.h \
  /usr/share/arduino/hardware/arduino//cores/arduino/binary.h \
@@ -12,4 +12,4 @@
  /usr/share/arduino/hardware/arduino//variants/mega/pins_arduino.h \
  /usr/share/arduino/libraries/Wire/Wire.h \
  /usr/share/arduino/hardware/arduino//cores/arduino/Stream.h \
- /home/alumno/MyArduinoProject/lib/FooLib/FooLib.h
+ /home/alumno/Escritorio/ProyectoGPI2A116237/ArduinoProject/lib/FooLib/FooLib.h

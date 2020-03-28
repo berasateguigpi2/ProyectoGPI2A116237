@@ -1,4 +1,4 @@
-/home/alumno/MyArduinoProject/build/FooProject/mega/core/USBCore.cpp.o: \
+/home/alumno/Escritorio/ProyectoGPI2A116237/ArduinoProject/build/FooProject/mega/core/USBCore.cpp.o: \
  /usr/share/arduino/hardware/arduino//cores/arduino/USBCore.cpp \
  /usr/share/arduino/hardware/arduino//cores/arduino/Platform.h \
  /usr/share/arduino/hardware/arduino//cores/arduino/Arduino.h \

@@ -1,4 +1,4 @@
-/home/alumno/MyArduinoProject/build/FooProject/mega/core/CDC.cpp.o: \
+/home/alumno/Escritorio/ProyectoGPI2A116237/ArduinoProject/build/FooProject/mega/core/CDC.cpp.o: \
  /usr/share/arduino/hardware/arduino//cores/arduino/CDC.cpp \
  /usr/share/arduino/hardware/arduino//cores/arduino/Platform.h \
  /usr/share/arduino/hardware/arduino//cores/arduino/Arduino.h \

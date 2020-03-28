@@ -1,4 +1,4 @@
-/home/alumno/MyArduinoProject/build/FooProject/mega/core/avr-libc/realloc.c.o: \
+/home/alumno/Escritorio/ProyectoGPI2A116237/ArduinoProject/build/FooProject/mega/core/avr-libc/realloc.c.o: \
  /usr/share/arduino/hardware/arduino//cores/arduino/avr-libc/realloc.c \
  /usr/share/arduino/hardware/arduino//cores/arduino/avr-libc/sectionname.h \
  /usr/share/arduino/hardware/arduino//cores/arduino/avr-libc/stdlib_private.h
