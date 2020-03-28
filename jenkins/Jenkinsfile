@@ -1,0 +1,25 @@
+pipeline {
+   agent any
+    stages {
+        stage('Maven simple'){
+            steps{
+                sh 'mvn -f ./simple/ clean test cobertura:cobertura package'
+            }
+        }
+        stage('Magen simple web'){
+            steps{
+                sh 'mvn -f ./simple-web/ clean test package'
+            }
+        }
+        stage('Android'){
+            steps{
+                sh 'cd AndroidProject/GPI2AGuillermo && ./gradlew clean build'
+            }
+        }
+        stage('Arduino'){
+            steps{
+                sh 'cd ArduinoProject/src/FooProject && make clean && make'
+            }  
+        }
+    }
+}
