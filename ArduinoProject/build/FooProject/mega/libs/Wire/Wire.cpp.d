@@ -1,4 +1,4 @@
-/home/alumno/MyArduinoProject/build/FooProject/mega/libs/Wire/Wire.cpp.o: \
+/home/alumno/Escritorio/ProyectoGPI2A116237/ArduinoProject/build/FooProject/mega/libs/Wire/Wire.cpp.o: \
  /usr/share/arduino/libraries/Wire/Wire.cpp \
  /usr/share/arduino/libraries/Wire/utility/twi.h \
  /usr/share/arduino/libraries/Wire/Wire.h \
